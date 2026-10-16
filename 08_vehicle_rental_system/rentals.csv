@@ -1,0 +1,3 @@
+vehicle_id,model,category,daily_rate,available
+V1001,Maruti Swift,Car,1800.00,True
+V1002,Honda Activa,Bike,500.00,True

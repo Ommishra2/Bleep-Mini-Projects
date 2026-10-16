@@ -1,0 +1,4 @@
+transaction_id,account_id,transaction_type,amount,note
+T1001,AC100,Deposit,5000.00,Initial deposit
+T1002,AC100,Withdrawal,1200.00,ATM withdrawal
+T1003,AC200,Deposit,2500.00,Salary credit

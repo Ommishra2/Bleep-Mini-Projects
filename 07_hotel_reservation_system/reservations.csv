@@ -1,0 +1,4 @@
+reservation_id,guest_name,room_type,nights,nightly_rate
+R1001,Aarav Sharma,Single,2,1800.00
+R1002,Meera Das,Double,3,2500.00
+R1003,Om,Suite,2,7500.00
